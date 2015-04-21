@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SITE-LIST>
+    <sitelist ID="1" NAME="Site 1" LATITUDE="12.23" LONGITUDE="23.34"/>
+    <sitelist ID="2" NAME="Site 2" LATITUDE="21.32" LONGITUDE="43.54"/>
+    <sitelist ID="3" NAME="newSite" LATITUDE="12.03" LONGITUDE="8.01"/>
+    <sitelist ID="4" NAME="newSite" LATITUDE="12.03" LONGITUDE="8.01"/>
+    <sitelist ID="5" NAME="newSite" LATITUDE="12.03" LONGITUDE="8.01"/>
+</SITE-LIST>
